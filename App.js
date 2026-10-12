@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View, Image, FlatList, Text } from 'react-native';
 import products from './src/data/products';
-
+import ProductScreen from './src/screens/ProductScreen';
 export default function App() {
   return (
     <View style={styles.container}>
