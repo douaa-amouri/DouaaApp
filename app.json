@@ -1,4 +1,4 @@
-{
+git rm -r src/data/screens{
   "expo": {
     "name": "DouaaApp",
     "slug": "DouaaApp",
